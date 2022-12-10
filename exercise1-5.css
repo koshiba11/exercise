@@ -5,13 +5,8 @@
 }
 
 header{
-  width: 100%;
-  padding: 20px 0;
+  padding: 20px;
   text-align: center;
-}
-
-header .heading{
-  font-size: 32px;
 }
 
 .nav-list{
